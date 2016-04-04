@@ -17,7 +17,6 @@ public class Solution
             for (int j = 1; j < 10; j = j + 1)
             {
                 System.out.print(i * j + " ");
-
             }
             System.out.println();
         }
